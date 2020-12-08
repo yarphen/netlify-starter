@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: NEITLFY SITE EXAMPLE FOR MARIANNA
+title: NETLIFY SITE EXAMPLE FOR MARIANNA
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
